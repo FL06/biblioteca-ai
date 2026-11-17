@@ -1,0 +1,10 @@
+target/
+data/
+.idea/
+.vscode/
+*.iml
+
+# NUNCA enviar a chave da API para o GitHub
+secrets.properties
+.env
+*.key
